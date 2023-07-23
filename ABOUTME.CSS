@@ -1,0 +1,78 @@
+body
+{
+    background-color:#fdf0d5;
+    text-align: center;
+}
+.heading
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    background-color: #051e3e;
+    color: white;
+    
+}
+.myphoto{
+    
+}
+.intro
+{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: larger;
+    
+}
+
+.heading
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:#1e1f26 ;
+    color: white;
+    font-size: x-large;
+}
+
+
+.resume
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+   
+    
+}
+.social_media
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+}
+..myphoto{
+    border: solid .8cm;
+    border-color: #451e3e;
+    
+}
+.resumeimg
+{
+
+    border: solid cornflowerblue;
+}
+.ACHIEVEMENTS
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+}
+
+.SKILLS
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+}
+
+
+nav
+{
+    background-color:white;
+    text-align: center;
+    text-overflow: ellipsis;
+    text-shadow: 30in;
+    font-style: italic;
+    font-size: x-large;
+    
+}
